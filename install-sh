@@ -1,0 +1,20 @@
+# Install autoconf and automake
+sudo apt-get install autoconf automake
+
+# Add noobslab theme repository
+sudo add-apt-repository ppa:noobslab/themes
+
+# Install the numix theme
+sudo apt-get install numix-gtk-theme
+
+# Install wallch for changing wallpapers
+sudo apt-get install wallch
+
+# Install dropbox
+# Install this for dropbox
+sudo apt-get install python-gpgme
+sudo apt-get install libpango1.0-1 python-gtk
+# Download the installer from the official site
+
+# Update apt
+sudo apt-get update
